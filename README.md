@@ -1,2 +1,2 @@
-# Calendar-App
-Calendar App created using HTML, CSS and Vanilla JavaScript.
+# JS-Calendar
+Calendar App Created using Vanilla JavaScript
